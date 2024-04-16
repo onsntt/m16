@@ -19,11 +19,11 @@ int main() {
                         while (decimal > 0);
 
 
-for (int i = vec.size() -1; i >= 0; i--)
-{
-    std::cout << vec[i] << " ";
-}
-std::cout << "\n";
+                            for (int i = vec.size() -1; i >= 0; i--)
+                                {
+                                     std::cout << vec[i] << " ";
+                                }
+                                     std::cout << "\n";
             }
     }
 
